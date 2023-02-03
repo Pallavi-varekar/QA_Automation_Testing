@@ -1,0 +1,25 @@
+'UserId : 31jfde2mixb7ityhwmtyxwel7xay
+{
+    "country": "IN",
+&    "display_name": "Pallavivarekar",
+*    "email": "pallavivarekar4@gmail.com",
+    "explicit_content": {
+!        "filter_enabled": false,
+        "filter_locked": false
+    },
+    "external_urls": {
+P        "spotify": "https://open.spotify.com/user/31jfde2mixb7ityhwmtyxwel7xay"
+    },
+    "followers": {
+        "href": null,
+        "total": 0
+    },
+M    "href": "https://api.spotify.com/v1/users/31jfde2mixb7ityhwmtyxwel7xay",
+*    "id": "31jfde2mixb7ityhwmtyxwel7xay",
+    "images": [
+	        
+    ],
+    "product": "free",
+    "type": "user",
+7    "uri": "spotify:user:31jfde2mixb7ityhwmtyxwel7xay"
+}

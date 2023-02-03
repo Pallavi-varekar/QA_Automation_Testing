@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bridgelabz.api.RestApiAutomation" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-01-30T15:26:50" hostname="PALLAVI" time="3.469">
+  <properties/>
+  <testcase name="getCurrentUserProfile" classname="com.bridgelabz.api.RestApiAutomation" time="3.469"/>
+  <system-out><![CDATA[UserId : 31jfde2mixb7ityhwmtyxwel7xay
+{
+    "country": "IN",
+    "display_name": "Pallavivarekar",
+    "email": "pallavivarekar4@gmail.com",
+    "explicit_content": {
+        "filter_enabled": false,
+        "filter_locked": false
+    },
+    "external_urls": {
+        "spotify": "https://open.spotify.com/user/31jfde2mixb7ityhwmtyxwel7xay"
+    },
+    "followers": {
+        "href": null,
+        "total": 0
+    },
+    "href": "https://api.spotify.com/v1/users/31jfde2mixb7ityhwmtyxwel7xay",
+    "id": "31jfde2mixb7ityhwmtyxwel7xay",
+    "images": [
+        
+    ],
+    "product": "free",
+    "type": "user",
+    "uri": "spotify:user:31jfde2mixb7ityhwmtyxwel7xay"
+}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
